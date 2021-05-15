@@ -1,0 +1,9 @@
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\bin\Debug\netcoreapp3.1\JCFNMembers.Domain.deps.json
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\bin\Debug\netcoreapp3.1\JCFNMembers.Domain.dll
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\bin\Debug\netcoreapp3.1\JCFNMembers.Domain.pdb
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\obj\Debug\netcoreapp3.1\JCFNMembers.Domain.csprojAssemblyReference.cache
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\obj\Debug\netcoreapp3.1\JCFNMembers.Domain.AssemblyInfoInputs.cache
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\obj\Debug\netcoreapp3.1\JCFNMembers.Domain.AssemblyInfo.cs
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\obj\Debug\netcoreapp3.1\JCFNMembers.Domain.dll
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\obj\Debug\netcoreapp3.1\JCFNMembers.Domain.pdb
+C:\Users\YOzeki.AD.MTS\Documents\Visual Studio 2019\Projects\JCFNMembers\JCFNMembers.Domain\obj\Debug\netcoreapp3.1\JCFNMembers.Domain.csproj.CoreCompileInputs.cache
